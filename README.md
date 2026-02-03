@@ -19,22 +19,22 @@ Desarrollar un sistema:
 
 El proyecto sigue **Clean Architecture**, separando responsabilidades en capas:
 
-Presupuestos
-├── Domain
-│ ├── Entities
-│ ├── Enums
-│ └── Interfaces
-├── Application
-│ └── Services
-├── Infrastructure
-│ ├── Data
-│ │ └── Configurations (EF Core Fluent API)
-│ └── Repositories
-├── Tests
-│ ├── Domain.Tests
-│ ├── Application.Tests
-│ └── Infrastructure.Tests
-└── UI (pendiente)
+- Presupuestos
+	- Domain
+		- Entities
+		- Enums
+		- Interfaces
+	- Application
+		- Services
+	- Infrastructure
+		- Data
+			- Configurations (EF Core Fluent API)
+		- Repositories
+	- Tests
+		- Domain.Tests
+		- Application.Tests
+		- Infrastructure.Tests
+	- UI (pendiente)
 
 
 ### 📌 Capas
