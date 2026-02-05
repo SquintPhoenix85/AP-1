@@ -1,6 +1,6 @@
 # 🏗️ Sistema de Presupuestación para Construcción
 
-Aplicación de escritorio para la **creación y gestión de presupuestos de obra**, diseñada para una firma constructora colombiana.  
+Aplicación de escritorio para la **creación y gestión de presupuestos de obra**.
 El sistema permite modelar **Materiales, Equipos, Mano de Obra, APU y Presupuestos**, aplicando principios de **Programación Orientada a Objetos, Clean Architecture y SOLID**.
 
 ---
