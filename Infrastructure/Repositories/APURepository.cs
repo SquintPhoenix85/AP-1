@@ -8,7 +8,7 @@ using Presupuestos.Infrastructure.Data;
 
 namespace Presupuestos.Infrastructure.Repositories
 {
-    public class APURepository
+    public class APURepository : IAPURepository
     {
         private readonly AppDbContext _context;
         public APURepository(AppDbContext context)
